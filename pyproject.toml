@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "python-fastapi-cookbook"
+version = "0.1.0"
+description = ""
+authors = ["Benny Cheng <benny_cheng@leadtek.com.tw>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+fastapi = {extras = ["all"], version = "^0.115.8"}
+uvicorn = "^0.34.0"
+
+
+[tool.poetry.group.dev.dependencies]
+black = "^25.1.0"
+flake8 = "^7.1.2"
+isort = "^6.0.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
