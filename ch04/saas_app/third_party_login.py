@@ -7,8 +7,8 @@ from .db_connection import get_session
 from .models import UserInDB
 from .operations import get_user_by_email, get_user_by_username
 
-GITHUB_CLIENT_ID = "Ov23liCzBTBXujg4YfpB"
-GITHUB_CLIENT_SECRET = "33c0398a456ae13a4ba1a2f149fa6b4481775d28"
+GITHUB_CLIENT_ID = "YOUR_APP_CLIENT_ID"
+GITHUB_CLIENT_SECRET = "YOUR_APP_CLIENT_SECRET"
 GITHUB_REDIRECT_URI = "http://localhost:8000/github/auth/token"
 GITHUB_AUTHORIZATION_URL = "https://github.com/login/oauth/authorize"
 
