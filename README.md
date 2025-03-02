@@ -37,3 +37,10 @@
 * [](https://limits.readthedocs.io/en/stable/quickstart.xhtml#rate-limit-string-notation)
 
 * [](https://fastapi.tiangolo.com/tutorial/background-tasks/)
+
+### chapter 09
+
+* [](https://fastapi.tiangolo.com/advanced/websockets/)
+* [](https://www.starlette.io/websockets/)
+* [](https://www.iana.org/assignments/websocket/websocket.xml#close-code-number)
+* [](https://developer.mozilla.org/en-US/docs/Web/API/CloseEvent)
