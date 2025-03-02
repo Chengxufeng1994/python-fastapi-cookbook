@@ -43,7 +43,6 @@ repos:
     rev: v1.15.0
   - hooks:
       - id: commitizen
-      - id: commitizen-branch
         stages:
           - commit-msg
     repo: https://github.com/commitizen-tools/commitizen
