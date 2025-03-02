@@ -44,3 +44,8 @@
 * [](https://www.starlette.io/websockets/)
 * [](https://www.iana.org/assignments/websocket/websocket.xml#close-code-number)
 * [](https://developer.mozilla.org/en-US/docs/Web/API/CloseEvent)
+
+### chapter 10
+
+* [](https://medium.com/@arturocuicas/fastapi-and-grpc-19c9b329b211)
+* [](https://medium.com/@dinghan1995/unleashing-the-power-of-grpc-advantages-over-rest-for-microservices-with-fastapi-af1b2a82bad0)
